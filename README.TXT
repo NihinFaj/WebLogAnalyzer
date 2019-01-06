@@ -1,5 +1,6 @@
 Project: weblog-analyzer
-Aothors: David J. Barnes and Michael Kölling
+Authors: David J. Barnes and Michael Kölling
+Refactored by: Nihinlolamiwa Fajemilehin
 
 This project is part of the material for chapter 7 of the book
 
